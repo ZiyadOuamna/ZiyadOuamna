@@ -70,18 +70,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiyadOuamna&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadOuamna&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ✨ **"Combining creativity and technical skills to create modern web sites and digital solutions."**
 
 ---
