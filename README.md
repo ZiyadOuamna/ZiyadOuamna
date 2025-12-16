@@ -1,25 +1,72 @@
-# ziyad
-Hi there, I’m Ziyad!
-About Me
+<h1 align="center">Hi 👋, I'm Ziyad Ouamna</h1>
+<h3 align="center">Software Engineer | UI/UX Designer | Digital Entrepreneur 🇲🇦</h3>
 
-I’m a passionate web developer and digital creator, currently pursuing a bachelor’s degree in software engineering. With a background in multimedia and web design, I specialize in creating modern, responsive websites and comprehensive visual identities.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZiyadOuamna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Skills
+---
 
-Web Development: HTML, CSS, JavaScript, PHP
+### 👨‍💻 About Me
 
-Frameworks: CodeIgniter, Laravel, Bootstrap
+- 🎓 Currently pursuing a **Licence of Excellence in Software Engineering**.
+- 🚀 Founder & Developer of **Cleanix**, a SaaS platform for cleaning service management.
+- 🎨 Passionate about combining **Technical Skills** with **Creative Design** (UI/UX, Branding, Print).
+- 📈 Active in **Financial Markets** & **Algo Trading** strategies.
+- 🌍 Based in **Morocco**, aiming for quality and innovation in every digital solution.
 
-Design: Graphic Design, UI/UX
+---
 
-Projects
+### 🚀 Connect with Me
 
-I’ve worked on a variety of projects, including e-commerce platforms, real estate websites, and custom web applications.
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-Connect with Me
+---
 
-Twitter
+### 🛠️ Technologies & Tools
 
-YouTube
+#### 💻 Development
+<p align="center">
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+</p>
 
-LinkedIn
+#### 🎨 Design
+<p align="center">
+  <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
+  <img alt="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
+  <img alt="Illustrator" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiyadOuamna&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadOuamna&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ **"Combining creativity and technical skills to create modern web sites and digital solutions."**
+
+---
