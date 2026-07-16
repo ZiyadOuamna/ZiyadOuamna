@@ -7,9 +7,10 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 - 🎓 Holder of a **BTS in Multimedia & Web Design**
-- 🎓 Currently pursuing a **Licence of Excellence in Software Engineering**.
+- 🎓 Currently have a **Licence of Excellence in Software Engineering**.
 - 🚀 Founder & Developer of **********, she will be a Big Dev Company.
 - 🎨 Passionate about combining **Technical Skills** with **Creative Design** (UI/UX, Branding, Testing, Coding).
 - 🎨 Graphic Designer & passionate with Vedio Editing - Audio Editing .
